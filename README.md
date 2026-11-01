@@ -6,7 +6,15 @@
   <table>
     <tr>
       <td>
-      $\color{#a795ff}{\textsf{my}}$
+      <p align="center">
+      $\color{#a795ff}{\textsf{Pete(r)  ,  Nick  ,  Naru }}$<br>
+      <p align="center">
+      $\color{#a795ff}{\textsf{he/him mlm 18 y }}$<br>
+      <p align="center">
+      $\color{#a795ff}{\textsf{ENFP sx/so 269 2w1 sang-chol}}$<br>
+      <p align="center">
+      $\color{#a795ff}{\textsf{post hardcore emo
+}}$<br>
            </p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
       </td>
     </tr>
