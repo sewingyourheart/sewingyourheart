@@ -21,6 +21,8 @@
       $\color{#94c9ff}{\textsf{i use this acc for following cool people}}$<br>
       <br>
       $\color{#a795ff}{\textsf{follow my main account instead ! }}$<br>
+<br>
+      <img src="https://i.postimg.cc/wxS3WCZT/Tumblr-l-1372826008543520.gif" width="100"> <img src="https://i.postimg.cc/qvGRvzRr/Tumblr-l-1372731389355280.png" width="100"> <img src="https://i.postimg.cc/pTmXCCBt/Tumblr-l-1372685106348621.png" width="100">
            </p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
       </td>
     </tr>
