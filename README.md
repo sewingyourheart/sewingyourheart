@@ -9,7 +9,7 @@
       <p align="center">
       $\color{#a795ff}{\textsf{Pete(r)  ,  Nick  ,  Naru }}$<br>
       <p align="center">
-      $\color{#a795ff}{\textsf{he/him mlm 18 y }}$<br>
+      $\color{#a795ff}{\textsf{he/him mlm 18 y }}$ <img src="https://i.postimg.cc/sgTf7bRT/Tumblr-l-1372710443935564.gif" width="20"><br>
       <p align="center">
       $\color{#a795ff}{\textsf{ENFP sx/so 269 2w1 sang-chol}}$<br>
       <p align="center">
