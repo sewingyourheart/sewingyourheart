@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td>
-      $color{#a795ff}{\textsf{hello}$
+      $\color{#a795ff}{\textsf{my}}$
            </p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
       </td>
     </tr>
