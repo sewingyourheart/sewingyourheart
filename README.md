@@ -14,7 +14,7 @@
       $\color{#a795ff}{\textsf{ENFP sx/so 269 2w1 sang-chol}}$<br>
       <p align="center">
       $\color{#a795ff}{\textsf{post hardcore emo}}$<br>
-      <img src="https://i.postimg.cc/BnHtFmnV/Tumblr-l-1373011745748541.gif" width="300">
+      <img src="https://i.postimg.cc/BnHtFmnV/Tumblr-l-1373011745748541.gif" width="100">
            </p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
       </td>
     </tr>
