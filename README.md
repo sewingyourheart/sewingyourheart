@@ -8,7 +8,7 @@
       <td>
       <img src="https://i.postimg.cc/c1VNy0d2/Untitled103-20261101115233.png" width="300"><br>
       <p align="center">
-      $\color{#a795ff}{\textsf{Pete(r)  ,  Nick  ,  Naru ᰔ }}$<br>
+      $\color{#a795ff}{\textsf{Pete(r)}}$  $\color{#ffa0ff}{\textsf{,  Nick}}$  $\color{#94c9ff}{\textsf{,  Naru ᰔ }}$<br>
       <p align="center">
       $\color{#a795ff}{\textsf{݁ ˖Ი𐑼⋆ he/him mlm 18 y }}$ <img src="https://i.postimg.cc/sgTf7bRT/Tumblr-l-1372710443935564.gif" width="20"><br>
       <p align="center">
